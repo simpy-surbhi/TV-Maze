@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AvatarItem renders correctly 1`] = `
+<div
+  class="makeStyles-avatarItem-1"
+>
+  <div
+    class="MuiAvatar-root MuiAvatar-circular makeStyles-large-2"
+  >
+    <img
+      class="MuiAvatar-img"
+      src="https://static.tvmaze.com/uploads/images/original_untouched/11/27896.jpg"
+    />
+  </div>
+  <div>
+    <h6
+      class="MuiTypography-root MuiTypography-subtitle2"
+    >
+      <strong>
+        Click Me
+      </strong>
+    </h6>
+    <h6
+      class="MuiTypography-root MuiTypography-subtitle2"
+    >
+      sd
+    </h6>
+  </div>
+</div>
+`;
