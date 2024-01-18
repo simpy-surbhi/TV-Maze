@@ -1,3 +1,13 @@
+# React TV Show Explorer
+
+![image](https://github.com/simpy-surbhi/TV-Maze/assets/59621791/41ce8184-d088-4bd9-baea-2949f9fe331d)
+
+> A React-based web application that utilizes the TVmaze API to explore and discover information about TV shows.
+
+## About
+
+The React TV Show Explorer is a web application built with React that allows users to browse and discover details about various TV shows. The application fetches data from the [TVmaze API](https://www.tvmaze.com/api) to provide up-to-date information about shows, including details such as cast, episodes, and more.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
