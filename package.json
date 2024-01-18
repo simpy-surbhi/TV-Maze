@@ -1,7 +1,7 @@
 {
   "name": "tv-maze",
   "version": "0.1.0",
-  "homepage": "https://simpy-surbhi.github.io/",
+  "homepage": "https://simpy-surbhi.github.io/TV-Maze",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.5.0",

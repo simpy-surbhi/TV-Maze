@@ -1,6 +1,6 @@
 import { AppLayout } from "./layouts";
 import * as React from "react";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter  } from "react-router-dom";
 import { CssBaseline } from "@material-ui/core";
 import { createTheme } from "@material-ui/core/styles";
 import { MuiThemeProvider } from "@material-ui/core/styles";
@@ -33,9 +33,9 @@ export default class App extends React.Component<Props, CustomState> {
     return (
       <MuiThemeProvider theme={customTheme}>
         <CssBaseline />
-        <BrowserRouter>
+        <HashRouter>
           <AppLayout toggleDarkTheme={toggleDarkTheme} />
-        </BrowserRouter>
+        </HashRouter>
       </MuiThemeProvider>
     );
   }
