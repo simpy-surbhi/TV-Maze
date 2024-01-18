@@ -66,7 +66,7 @@ export const EpisodeContainer: React.FC = () => {
             <Breadcrumbs aria-label="breadcrumb">
               <Link
                 color="inherit"
-                href={`/shows/${episode._embedded?.show?.id}`}
+                href={`#/shows/${episode._embedded?.show?.id}`}
                 className={classes.link}
               >
                 <ChevronLeftIcon />
